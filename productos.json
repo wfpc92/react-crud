@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "nombre": "panela de caña",
+      "precio": 2000,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "nombre": "arroz con carne papa",
+      "precio": 3000
+    },
+    {
+      "id": 2,
+      "nombre": "azucar",
+      "precio": 2000
+    },
+    {
+      "nombre": "chinin",
+      "precio": "800",
+      "id": 3
+    },
+    {
+      "nombre": "chinin",
+      "precio": "8999",
+      "id": 4
+    },
+    {
+      "nombre": "CHINN",
+      "precio": "8000",
+      "id": 5
+    },
+    {
+      "nombre": "panela del cauca",
+      "precio": 2000,
+      "id": 6
+    },
+    {
+      "nombre": "panela del cauca",
+      "precio": 2000,
+      "id": 7
+    },
+    {
+      "nombre": "Tamales",
+      "precio": "2000",
+      "id": 8
+    }
+  ]
+}
